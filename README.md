@@ -14,6 +14,5 @@ Usage
 
 If you don't have Themes.tmbundle, you have to find it first, or you can made by your self.
 
-there is not easy way to install it yet.
-Maybe next year when I got free.
+There is not easy way to install it yet. Maybe next year when I got free.
 
