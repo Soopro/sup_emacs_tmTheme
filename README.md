@@ -26,8 +26,11 @@ the different is I remove the 'No automatic complate {' from Marcos.
 It's sucks, eat the next line space while you type { begging of the line.
 
 
-#### /.tm_properties
+#### tm_properties
 =========================
+edit file /.tm_properties
+
+
 
 softWrap = true
 tabSize = 2
