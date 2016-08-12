@@ -1,0 +1,10 @@
+{	"contactEmailRot13" = "redy.ru@gmail.com";
+	contactName = "Redy Ru";
+	description = "Themes for syntax highlight and (HTML) output.";
+	name = "SupEmacs";
+	source = {
+		method = "https";
+		url = "https://github.com/soopro/sup_emacs_tmTheme.git";
+	};
+	uuid = "E92B6653-2E9D-42FA-A0E8-40624D3C27E9";
+}
