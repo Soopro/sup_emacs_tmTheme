@@ -1,0 +1,46 @@
+{
+	"Seti_SB_blue": true,
+	"Seti_bold_slctdtab_labels": true,
+	"Seti_no_blue_bar": true,
+	"Seti_no_scroll_icons": false,
+	"Seti_orange_button": true,
+	"Seti_orange_label": true,
+	"Seti_panel_nrml": true,
+	"Seti_tabs_small": true,
+	"Seti_teal_scrollbar": true,
+	"anaconda_gutter_marks": true,
+	"anaconda_gutter_theme": "Simple",
+	"anaconda_linter_mark_style": "fill",
+	"anaconda_linter_underlines": true,
+	"anaconda_linting_behaviour": "save-only",
+	"bold_folder_labels": true,
+	"color_scheme": "Packages/Colorsublime - Themes/Into-the-Dark.tmTheme",
+	"draw_indent_guides": true,
+	"enable_tab_scrolling": true,
+	"file_exclude_patterns":
+	[
+		".DS_Store",
+		"dump.rdb",
+		"*.pyc",
+		".idea",
+		".git",
+		".git*"
+	],
+	"font_size": 14,
+	"ignored_packages":
+	[
+		"Vintage"
+	],
+	"line_padding_bottom": 4,
+	"line_padding_top": 4,
+	"rulers":
+	[
+		79
+	],
+	"scroll_speed": 5,
+	"theme": "ayu-mirage.sublime-theme",
+	"translate_tabs_to_spaces": true,
+	"trim_trailing_white_space_on_save": true,
+	"word_wrap": true,
+	"wrap_width": 79
+}
